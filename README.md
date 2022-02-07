@@ -15,9 +15,11 @@ ____
     * [Counting sort](https://github.com/aberdar/java-book/blob/main/src/aberdar/algorithm/sorting/SortingByCounting.java)
 * Initializing types
   * Classes
+    * [Class without a constructor](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/classes/ClassWithoutConstructor.java)
+    * [Class with a constructor](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/classes/ClassWithConstructor.java)
   * Collections
-  * Simple types
+  * [Simple types](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/simpleTypes/SimpleTypes.java)
   * Structures
-  * Transfers     
+  * [Transfers](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/transfers/Transfers.java)     
 
 ____
