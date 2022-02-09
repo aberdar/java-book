@@ -23,6 +23,14 @@ ____
     * [Types of collections](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/collections/TypesCollections.java) 
   * [Simple types](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/simpleTypes/SimpleTypes.java)
   * Structures
+    * [Structure without a constructor](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/structures/StructureWithoutConstructor.java)
+    * [Structure with a constructor](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/structures/StructureWithConstructor.java)
   * [Transfers](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/transfers/Transfers.java)     
-
+* Interfaces
+  * Collection of interfaces
+  * Default methods
+  * Interface inheritance 
+  * Declaration and initialization
+  * Compliance check
+  * Requirements for methods
 ____
