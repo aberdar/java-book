@@ -18,6 +18,9 @@ ____
     * [Class without a constructor](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/classes/ClassWithoutConstructor.java)
     * [Class with a constructor](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/classes/ClassWithConstructor.java)
   * Collections
+    * [Dictionaries](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/collections/Dictionaries.java)
+    * [Set collection](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/collections/Set.java)
+    * [Types of collections](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/collections/TypesCollections.java) 
   * [Simple types](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/simpleTypes/SimpleTypes.java)
   * Structures
   * [Transfers](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/transfers/Transfers.java)     
