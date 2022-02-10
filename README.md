@@ -27,10 +27,10 @@ ____
     * [Structure with a constructor](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/structures/StructureWithConstructor.java)
   * [Transfers](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/transfers/Transfers.java)     
 * Interfaces
-  * Collection of interfaces
+  * [Collection of interfaces](https://github.com/aberdar/java-book/tree/main/src/aberdar/interfaces/collectionOfInterfaces)
   * Default methods
   * Interface inheritance 
-  * Declaration and initialization
+  * [Declaration and initialization](https://github.com/aberdar/java-book/tree/main/src/aberdar/interfaces/declarationAndInitialization)
   * Compliance check
-  * Requirements for methods
+  * [Requirements for methods](https://github.com/aberdar/java-book/tree/main/src/aberdar/interfaces/requirementsForMethods)
 ____
