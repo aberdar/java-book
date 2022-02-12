@@ -28,9 +28,9 @@ ____
   * [Transfers](https://github.com/aberdar/java-book/blob/main/src/aberdar/initializingTypes/transfers/Transfers.java)     
 * Interfaces
   * [Collection of interfaces](https://github.com/aberdar/java-book/tree/main/src/aberdar/interfaces/collectionOfInterfaces)
-  * Default methods
-  * Interface inheritance 
+  * [Default methods](https://github.com/aberdar/java-book/blob/main/src/aberdar/interfaces/defaultMethods/DefaultMethods.java)
+  * [Interface inheritance](https://github.com/aberdar/java-book/blob/main/src/aberdar/interfaces/inheritance/InterfaceInheritance.java) 
   * [Declaration and initialization](https://github.com/aberdar/java-book/tree/main/src/aberdar/interfaces/declarationAndInitialization)
-  * Compliance check
+  * [Compliance check](https://github.com/aberdar/java-book/blob/main/src/aberdar/interfaces/complianceCheck/ComplianceCheck.java)
   * [Requirements for methods](https://github.com/aberdar/java-book/tree/main/src/aberdar/interfaces/requirementsForMethods)
 ____
