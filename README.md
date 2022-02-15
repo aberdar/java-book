@@ -33,4 +33,8 @@ ____
   * [Declaration and initialization](https://github.com/aberdar/java-book/tree/main/src/aberdar/interfaces/declarationAndInitialization)
   * [Compliance check](https://github.com/aberdar/java-book/blob/main/src/aberdar/interfaces/complianceCheck/ComplianceCheck.java)
   * [Requirements for methods](https://github.com/aberdar/java-book/tree/main/src/aberdar/interfaces/requirementsForMethods)
+* Lambda functions
+  * [Multiple parameters](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/MultipleParameters.java)
+  * [Function as a parameter](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/FunctionAsParameter.java)
+  * [No return value function](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/NoReturnValue.java)  
 ____
