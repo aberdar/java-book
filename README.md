@@ -35,6 +35,10 @@ ____
   * [Requirements for methods](https://github.com/aberdar/java-book/tree/main/src/aberdar/interfaces/requirementsForMethods)
 * Lambda functions
   * [Multiple parameters](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/MultipleParameters.java)
-  * [Function as a parameter](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/FunctionAsParameter.java)
-  * [No return value function](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/NoReturnValue.java)  
+  * [With one parameter](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/WithOneParameter.java)
+  * [Void function as a parameter](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/FunctionAsParameter.java)
+  * [No return value function](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/NoReturnValue.java)
+  * [Function as parameter](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/FunctionAsParameter.java)
+  * [Capturing variables](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/CapturingVariables.java)
+  * [Changing captured variables](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/ChangingCapturedVariables.java)
 ____
