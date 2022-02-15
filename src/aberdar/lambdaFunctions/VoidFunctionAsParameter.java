@@ -2,7 +2,7 @@ package aberdar.lambdaFunctions;
 
 import java.util.function.Consumer;
 
-public class FunctionAsParameter {
+public class VoidFunctionAsParameter {
 
     static void checkAndProcess(int number, Consumer<Integer> process) {
         if (number < 10) {
