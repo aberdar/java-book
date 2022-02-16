@@ -41,4 +41,7 @@ ____
   * [Function as parameter](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/FunctionAsParameter.java)
   * [Capturing variables](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/CapturingVariables.java)
   * [Changing captured variables](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/ChangingCapturedVariables.java)
+  * [Currying functions](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/%D0%A1urrying.java)
+  * [With multiple operators](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/WithMultipleOperators.java)
+  * [Function as a return value](https://github.com/aberdar/java-book/blob/main/src/aberdar/lambdaFunctions/FunctionAsReturnValue.java)
 ____
